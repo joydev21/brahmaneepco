@@ -1,23 +1,24 @@
 
-## Research Lab Website Design Template
+## BRAHMA (Braided River Aid: Hydro-Morphological Analyzer)
 
-This is a research lab website template that can be used by university students / professors to create a simple website for showing and displaying their labs / research. 
+The BRAHMA-2D model is an indigenous model to help gauge the flow of large braided rivers like the Brahmaputra and help engineers while taking river bank protection measures.
+It integrates a 2-dimensional water movement model with entropy theory, providing insights into disorder and randomness in river flow.
+It addresses challenges in predicting river flow variations across depth, essential for flood and erosion control, agriculture, water supply design, and energy production.
+It was developed in collaboration with the Brahmaputra Board.
 
-I built this for my brother years ago, and you can find his current site here: [University of Illinois Energy Transport Research Lab](http://etrl.mechanical.illinois.edu/)
+## Significance:
+Traditional measurement methods during high monsoons are risky and difficult, leading to the adoption of mathematical models.
+Existing models provide only average velocity, while BRAHMA-2D accounts for undercurrents at different depths, crucial for accurate predictions.
+Braided rivers, characterized by sandbars, pose additional challenges, and this model is designed to address these complexities.
+River bank erosion is a severe issue in Assam, particularly along the Brahmaputra and its tributaries.
 
-You can find a live view of the template using the link below:
+## Application:
+BRAHMA-2D aids in designing sustainable hydraulic structures like spurs and river bank protection measures to mitigate erosion.
+Its quasi-3D representation enables understanding of water movement at various depths and its circulation around structures like spurs.
 
-https://photonlines.github.io/Research-Lab-Website/
-
-It was built using the libraries provided below:
-
-- [Twitter Bootstrap (v2.3.1)](https://github.com/twbs/bootstrap)
-- [blueimp Gallery (v1.3.0)](https://github.com/blueimp/Gallery)
-
-The stock photos used within the template are from [Unsplash.](https://unsplash.com/). 
-
-The CSS social buttons are from [Nick La.](http://webdesignerwall.com/tutorials/css-social-buttons)
+Video byte link : https://youtu.be/TG5fry_Nr0M
+Website link : coming soon
 
 ## License
 
-The work is licensed under The MIT License.
+The work is licensed under teambrahma License.
