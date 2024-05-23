@@ -1,6 +1,7 @@
 
 ## BRAHMA (Braided River Aid: Hydro-Morphological Analyzer)
 
+IIT Guwahati's BRAHMA-2D Model Revolutionizes Hydraulic Design for Sustainable River Management
 The BRAHMA-2D model is an indigenous model to help gauge the flow of large braided rivers like the Brahmaputra and help engineers while taking river bank protection measures.
 It integrates a 2-dimensional water movement model with entropy theory, providing insights into disorder and randomness in river flow.
 It addresses challenges in predicting river flow variations across depth, essential for flood and erosion control, agriculture, water supply design, and energy production.
@@ -18,6 +19,8 @@ Its quasi-3D representation enables understanding of water movement at various d
 
 Video byte link : https://youtu.be/TG5fry_Nr0M
 Website link : coming soon
+
+Ongoing research at IIT Guwahati continues to evolve the BRAHMA-2D model extending its application to estimate velocity changes for different vegetation types and assess the impact of structures like porcupines on flow velocity. The versatile model has further helped to design bioengineering methods for controlling river bank erosion. It has also been applied to understand habitat suitability of aquatic species, especially endangered species, based on the availability of required depth and flow velocity. 
 
 ## License
 
